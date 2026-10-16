@@ -1,0 +1,7542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodlawn United Methodist Church",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.754672187134,
+          33.539741953825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daphne Justice Center",
+        "city": "Daphne",
+        "state": "Alabama",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89799639252,
+          30.598674123202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Spirit Catholic Church",
+        "city": "Huntsville",
+        "state": "Alabama",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chairs, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2022,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.572736610025,
+          34.691146689714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Matthew’s Episcopal Church",
+        "city": "Madison",
+        "state": "Alabama",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": "2005/2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.741625544818,
+          34.723368647256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock of Ages Lutheran Church",
+        "city": "Payson",
+        "state": "Arizona",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2002,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.325951809514,
+          34.256922805479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mater Misericordiae Mission",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.092254244955,
+          33.4502380859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John the Baptist Catholic Church",
+        "city": "Hot Springs",
+        "state": "Arkansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screeens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2015",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.062205916993,
+          34.502414459406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mark's Catholic Church",
+        "city": "Monticello",
+        "state": "Arkansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Ambo, Altar, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2007/2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795700849476,
+          33.636898246792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Andrew's Episcopal Church",
+        "city": "Mountain Home",
+        "state": "Arkansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.384276580412,
+          36.351004220186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar Hill United Methodist Church",
+        "city": "Texarkana",
+        "state": "Arkansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.02659239911,
+          33.489243077591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Baptist Church",
+        "city": "Warren",
+        "state": "Arkansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.064387959135,
+          33.610839195176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Baptist Church",
+        "city": "Auburn",
+        "state": "California",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.071527882879,
+          38.900188370238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Peter's Catholic Church",
+        "city": "Fallbrook",
+        "state": "California",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chairs, Chancel (Ash)",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.227675586552,
+          33.374811187931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vietnamese Redemptorist",
+        "city": "Long Beach",
+        "state": "California",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs (Oak)",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.184942340769,
+          33.801642082038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John Garabed Armenian Church",
+        "city": "San Diego",
+        "state": "California",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.130108884028,
+          32.75863489284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ Our Savior Catholic Parish",
+        "city": "Santa Ana",
+        "state": "California",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.892388035252,
+          33.70359626143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ Episcopal Church",
+        "city": "Aspen",
+        "state": "Colorado",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.826716925093,
+          39.196531511766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams County Courthouse",
+        "city": "Brighton",
+        "state": "Colorado",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches, Podiums",
+        "jobTypes": [
+          "Benches",
+          "Other / Specialty"
+        ],
+        "year": "1998/2010",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.763257676337,
+          39.96829101573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seventeeth Judicial Court",
+        "city": "Brighton",
+        "state": "Colorado",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches",
+        "jobTypes": [
+          "Benches"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.763257676337,
+          39.96829101573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Bible Church",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.77356192377,
+          38.903842889666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. George Anglican Church",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82064242408,
+          38.833719194694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Catholic Church",
+        "city": "Grand Junction",
+        "state": "Colorado",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, (Solid Teak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.56153726218,
+          39.118815468322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julesburg Christian Church",
+        "city": "Julesburg",
+        "state": "Colorado",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2000,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.267090120612,
+          40.98983197375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart University Chapel",
+        "city": "Fairfield",
+        "state": "Connecticut",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers (Black Walnut)",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24539810816,
+          41.22785058081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart Church",
+        "city": "Norwichtown",
+        "state": "Connecticut",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": "2003/2004",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.100256010296,
+          41.549196137476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint John Paul II National Shrine",
+        "city": "Washington",
+        "state": "DC",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2015/2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.002214040667,
+          38.936200309057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kent County Family Court",
+        "city": "Dover",
+        "state": "Delaware",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517681593584,
+          39.157663660805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Lourdes",
+        "city": "Seaford",
+        "state": "Delaware",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Back Supports",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.612048639011,
+          38.647677132988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Catherine's Catholic Church",
+        "city": "Wilmington",
+        "state": "Delaware",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Radius Pews, Screens, Kneelers, ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.624382546065,
+          39.750124075711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanner and Pintaluga",
+        "city": "Delray Beach",
+        "state": "Florida",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Benches, Chancel",
+        "jobTypes": [
+          "Chancel Furniture",
+          "Benches"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.070539922245,
+          26.463526953425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jensen Beach Community Church",
+        "city": "Jensen Beach",
+        "state": "Florida",
+        "category": "Church",
+        "facility": "Church",
+        "product": null,
+        "jobTypes": [],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.233581216081,
+          27.25212346885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmanuel Lutheran Church",
+        "city": "Naples",
+        "state": "Florida",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2024,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.801985825639,
+          26.174053479782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pentecostal Church of God in Christ",
+        "city": "Riviera Beach",
+        "state": "Florida",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.074241304912,
+          26.785936771376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PruittHealth",
+        "city": "Tallahassee",
+        "state": "Florida",
+        "category": "Healthcare / Senior Care",
+        "facility": "Nursing Home",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2019,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.230868589243,
+          30.412013524797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jesuit High School",
+        "city": "Tampa",
+        "state": "Florida",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Kneelers",
+        "jobTypes": [
+          "Kneelers"
+        ],
+        "year": 2015,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.501191280943,
+          27.986517189201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PruittHealth",
+        "city": "Tampa",
+        "state": "Florida",
+        "category": "Healthcare / Senior Care",
+        "facility": "Nursing Home",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2022,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.493251299736,
+          28.152348841604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pillar Community Church",
+        "city": "Vero Beach",
+        "state": "Florida",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2023,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.400394387805,
+          27.641030126414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Baptist Church",
+        "city": "Winter Garden",
+        "state": "Florida",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2021,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.586868904829,
+          28.565669083841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmanuel Episcopal Church",
+        "city": "Athens",
+        "state": "Georgia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs, Cushions",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens",
+          "Cushions"
+        ],
+        "year": 2016,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38568444642,
+          33.960836621964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis Xavier Catholic Church",
+        "city": "Brunswick",
+        "state": "Georgia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2017",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.493864288892,
+          31.145238422438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia County Courthouse",
+        "city": "Evans",
+        "state": "Georgia",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.134066861214,
+          33.543963321245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia County Courthouse / Justice Center",
+        "city": "Evans",
+        "state": "Georgia",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.134066861214,
+          33.543963321245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anthony of Padua",
+        "city": "Ray City",
+        "state": "Georgia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2015,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.230597453109,
+          31.087838992991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anne Catholic Church",
+        "city": "Richmond Hills",
+        "state": "Georgia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2014/2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.306003151883,
+          31.94139953519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta Custom Interiors",
+        "city": "Smyrna",
+        "state": "Georgia",
+        "category": "Business / Other",
+        "facility": "Business",
+        "product": "Pew",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.469131433937,
+          33.834975635766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Benedict Episcopal Church",
+        "city": "Smyrna",
+        "state": "Georgia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2009/2010",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.497695000498,
+          33.854371934566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Trinity Church",
+        "city": "Honolulu",
+        "state": "Hawaii",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.728929489584,
+          21.283553400865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Office Environment Company",
+        "city": "Boise",
+        "state": "Idaho",
+        "category": "Business / Other",
+        "facility": "Business",
+        "product": "PB-80 Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2022",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.217203884573,
+          43.617789912285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart School",
+        "city": "Chicago",
+        "state": "Illinois",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Cushions     ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.552743476325,
+          41.720980104723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph College Seminary @ Loyola Un",
+        "city": "Chicago",
+        "state": "Illinois",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.658913635367,
+          42.001611519952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of The Ridge Catholic",
+        "city": "Chicago Ridge",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.778949284083,
+          41.695628373847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army",
+        "city": "Cicero",
+        "state": "Illinois",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 1999,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.753928491104,
+          41.84834403493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Presbyterian Church",
+        "city": "Geneseo",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.155132816017,
+          41.450679431512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince of Peace Catholic Church",
+        "city": "Lake Villa",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.071237086442,
+          42.413638180649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Archangel Michael Serbian Ortho.",
+        "city": "Lansing",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.578211366878,
+          41.558435612783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith Lutheran Church",
+        "city": "Mount Vernon",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2000,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.941929063114,
+          38.332259890867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Catholic Church",
+        "city": "Mount Vernon",
+        "state": "Illinois",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.909314414413,
+          38.317661905271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake County Circuit Court",
+        "city": "Park City",
+        "state": "Illinois",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches",
+        "jobTypes": [
+          "Benches"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902102087364,
+          42.356283784683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congregation Sukkat Shalom",
+        "city": "Wilmette",
+        "state": "Illinois",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Cherry Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.702992400686,
+          42.076545820861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sisters of St. Benedict",
+        "city": "Ferdinand",
+        "state": "Indiana",
+        "category": "Other Religious",
+        "facility": "Monastery",
+        "product": "Pews, (refinish)",
+        "jobTypes": [
+          "Pews",
+          "Refinishing / Restoration"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.855096489441,
+          38.224168681263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Magdalene Catholic Church",
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "category": "Other Religious",
+        "facility": "Oratory",
+        "product": "Pews (Quarter Sawn White Oak), Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.119776778403,
+          41.162476433821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul Catholic Chapel",
+        "city": "Fremont",
+        "state": "Indiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2020,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.825017742552,
+          41.746860779071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown Hill Funeral Home",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.171267779343,
+          39.824896101697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Catholic Church",
+        "city": "Jasper",
+        "state": "Indiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Cushions",
+        "jobTypes": [
+          "Pews",
+          "Screens",
+          "Cushions"
+        ],
+        "year": "2020",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.998153940675,
+          38.420077492555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Phillip Catholic Church",
+        "city": "Mount Vernon",
+        "state": "Indiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2000,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.717092947887,
+          37.985155474103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Agnes Catholic Church",
+        "city": "Nashville",
+        "state": "Indiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.259587455611,
+          39.202797753221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paoli Christian Church",
+        "city": "Paoli",
+        "state": "Indiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.489014370773,
+          38.5615324445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windmoor Study Center",
+        "city": "South Bend",
+        "state": "Indiana",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.238322264981,
+          41.690557776732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Stephen's Student Center",
+        "city": "Cedar Falls",
+        "state": "Iowa",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 1991,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.456955027061,
+          42.51681793494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Catholic Church",
+        "city": "Centerville",
+        "state": "Iowa",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Radius Pews, Scrns, Knlrs, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.868002364144,
+          40.727186790685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jefferson County Health Center",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.963189773787,
+          40.986915136874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace United Methodist Church",
+        "city": "Glenwood",
+        "state": "Iowa",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.743428444163,
+          41.047959974536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heartland Mennonite Church",
+        "city": "McIntire",
+        "state": "Iowa",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Additional Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.618364964325,
+          43.443346488746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph's Catholic Church",
+        "city": "Mount Ayr",
+        "state": "Iowa",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "1992/2004",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.236193855065,
+          40.715320604762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beth Shalom Synagogue",
+        "city": "Sioux City",
+        "state": "Iowa",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.40066045185,
+          42.535324432177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wartburg College (all Maple)",
+        "city": "Waverly",
+        "state": "Iowa",
+        "category": "School / Education",
+        "facility": "College",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1994,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.480628084252,
+          42.726768652964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowling H.S. Chapel",
+        "city": "West Des Moines",
+        "state": "Iowa",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Kneelers, Screens",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.72289059217,
+          41.598130350141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Baptist Church",
+        "city": "Winterset",
+        "state": "Iowa",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 1993,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.028986437652,
+          41.335503125059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawlins County Health Center",
+        "city": "Atwood",
+        "state": "Kansas",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.03842387143,
+          39.813314598605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Lutheran Church",
+        "city": "Hanover",
+        "state": "Kansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pew (Oak) memorial",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.837147086035,
+          39.958446580611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sister Servants of Mary",
+        "city": "Kansas City",
+        "state": "Kansas",
+        "category": "Other Religious",
+        "facility": "Convent",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2011/2012",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.649385116545,
+          39.11368152533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Poor of Jesus Christ",
+        "city": "Kansas City, KS",
+        "state": "Kansas",
+        "category": "Other Religious",
+        "facility": "Religious Community",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.65392302636,
+          39.127625100612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leavenworth Justice Center",
+        "city": "Leavenworth",
+        "state": "Kansas",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches",
+        "jobTypes": [
+          "Benches"
+        ],
+        "year": 2000,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.911367399883,
+          39.314693332262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Lutheran Church",
+        "city": "Liberal",
+        "state": "Kansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.938509918742,
+          37.050425428669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anthony's Catholic Church",
+        "city": "Liberal",
+        "state": "Kansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93605855766,
+          37.054508406959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul's Funeral Home",
+        "city": "Oberlin",
+        "state": "Kansas",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1993,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.528936428094,
+          39.821096583664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beth Torah Synagogue",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 1996,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.655593063023,
+          38.898326791589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Pius X Catholic Student Center",
+        "city": "Pittsburg",
+        "state": "Kansas",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Screens, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.70151067264,
+          37.39235952567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Academy & College",
+        "city": "St. Marys",
+        "state": "Kansas",
+        "category": "School / Education",
+        "facility": "College",
+        "product": "PB-95 Pews, Chairs, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.062501341572,
+          39.192223030348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral of the Immaculate Conception",
+        "city": "Wichita",
+        "state": "Kansas",
+        "category": "Church",
+        "facility": "Cathedral",
+        "product": "Pews, (Oak) refinish existing, Kneelers, Screens",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Refinishing / Restoration"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335539600062,
+          37.692202279497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downing & Lahey Mortuary",
+        "city": "Wichita",
+        "state": "Kansas",
+        "category": "Funeral / Cemetery",
+        "facility": "Mortuary",
+        "product": "Pews, Chancel ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 1999,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.260442619208,
+          37.693763111751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Catherine of Siena Church",
+        "city": "Wichita",
+        "state": "Kansas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.426183887718,
+          37.749192220568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph House of Formation",
+        "city": "Wichita",
+        "state": "Kansas",
+        "category": "Other Religious",
+        "facility": "House of Formation",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.360248464195,
+          37.683026429186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis Xavier Catholic Church",
+        "city": "Mt. Washington",
+        "state": "Kentucky",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547369813723,
+          38.041949259034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owensboro Catholic High School Chapel",
+        "city": "Owensboro",
+        "state": "Kentucky",
+        "category": "School / Education",
+        "facility": "School / Chapel",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.127418790794,
+          37.760180925787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Immanuel Baptist Church",
+        "city": "Paducah",
+        "state": "Kentucky",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Mahogany)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6426630252,
+          37.068015639658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis de Sales Catholic Church",
+        "city": "Paducah",
+        "state": "Kentucky",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.600383913091,
+          37.085541175933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Transfiguration of Our Lord Mission",
+        "city": "Perry Park",
+        "state": "Kentucky",
+        "category": "Church",
+        "facility": "Church / Mission",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.015379259093,
+          38.531696077078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pikeville Freewill Baptist Church",
+        "city": "Pikeville",
+        "state": "Kentucky",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Radius)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.498123267112,
+          37.476208081894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jude Catholic Church",
+        "city": "Benton",
+        "state": "Louisiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.713333693741,
+          32.640752389933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jefferson Presbyterian Church",
+        "city": "Jefferson",
+        "state": "Louisiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Cyprus), Screens, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17282496573,
+          29.958926397735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of the Assumption",
+        "city": "Johnson Bayou",
+        "state": "Louisiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Custom Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.712344370709,
+          29.763278459551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Good Counsel Catholic Church",
+        "city": "Lake Charles",
+        "state": "Louisiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.220208922078,
+          30.178350347393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis Xavier Catholic Church",
+        "city": "Metairie",
+        "state": "Louisiana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.128987689373,
+          29.98439536099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacob Schoen & Son Funeral Services",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews (Cherry), Screens,",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.097780216971,
+          29.972810906581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sisters of the Holy Family",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "category": "Other Religious",
+        "facility": "Motherhouse",
+        "product": "Pews, Screens, Kneelers, Confessional",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Other / Specialty"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.005805380464,
+          30.011674816964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridgewater Mennonite Church",
+        "city": "Bridgewater",
+        "state": "Maine",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.844160211353,
+          46.451035188541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anthony of Padua Parish",
+        "city": "Westbrook",
+        "state": "Maine",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak), Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.364766953257,
+          43.680065478423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Andrew by the Bay",
+        "city": "Annapolis",
+        "state": "Maryland",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, #1 Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.448713173472,
+          39.033416609151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. St. Mary Seminary",
+        "city": "Emmitsburg",
+        "state": "Maryland",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Kneelers, Presider Chair, SC2, Ambo",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": "2008/2009",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.348875175047,
+          39.683592968514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Ignatius Catholic Church, Hickory",
+        "city": "Forest Hill",
+        "state": "Maryland",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.357119116564,
+          39.574894150457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of the Presentation",
+        "city": "Poolesville",
+        "state": "Maryland",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chair, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.407022687018,
+          39.133762629788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Church Braintree",
+        "city": "Braintree",
+        "state": "Massachusetts",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.970353743458,
+          42.22068988826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Framingham Spanish SDA Church",
+        "city": "Framingham",
+        "state": "Massachusetts",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.419349473813,
+          42.270324459874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple Emanuel",
+        "city": "Newton",
+        "state": "Massachusetts",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "1997/1999",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.188071456005,
+          42.338833756816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mark's Catholic Church",
+        "city": "Sutton",
+        "state": "Massachusetts",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.769024096682,
+          42.146801879155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. George Shrine",
+        "city": "Brighton",
+        "state": "Michigan",
+        "category": "Other Religious",
+        "facility": "Shrine",
+        "product": "Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.819744462979,
+          42.580671131453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Catholic Church",
+        "city": "Decatur",
+        "state": "Michigan",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.983406606159,
+          42.105381771613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laestadian Lutheran Church",
+        "city": "Ishpeming",
+        "state": "Michigan",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 1998,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.686870243346,
+          46.483157930845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Monica’s Catholic Church",
+        "city": "Kalamazoo",
+        "state": "Michigan",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Frontal Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2015/18",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.589710692739,
+          42.247295812577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakland County Courthouse",
+        "city": "Pontiac",
+        "state": "Michigan",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches",
+        "jobTypes": [
+          "Benches"
+        ],
+        "year": 2002,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32696579412,
+          42.651349485309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. James Lutheran Church",
+        "city": "Portage",
+        "state": "Michigan",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2002,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.616862071712,
+          42.215515733881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Immaculate Conception Church",
+        "city": "Three Rivers",
+        "state": "Michigan",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642391617479,
+          41.936083889087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army",
+        "city": "Brooklyn Park",
+        "state": "Minnesota",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Screens, Chairs. Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.33770328284,
+          45.133897656691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Catholic Church",
+        "city": "Caledonia",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2002,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.494823936838,
+          43.630738940371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easter Lutheran Church",
+        "city": "Eagan",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.167031737112,
+          44.792109656497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Catholic Church",
+        "city": "Kasson",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.748170806224,
+          44.047292181085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John Lutheran Church",
+        "city": "Lakeville",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, (114)SC, (52)#1Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.232809556164,
+          44.656700748053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adath Jeshurun Synagogue",
+        "city": "Minnetonka",
+        "state": "Minnesota",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 480
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.411469081505,
+          44.960526705378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Bernard Catholic Church",
+        "city": "Stewartville",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2004/05",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.482392193564,
+          43.855314113452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Catholic Church",
+        "city": "Warroad",
+        "state": "Minnesota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.331271431712,
+          48.911867513206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Episcopal Church of the Redeemer",
+        "city": "Biloxi",
+        "state": "Mississippi",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Screens, Cushions",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Cushions"
+        ],
+        "year": "2010",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.950226735433,
+          30.441765138618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Methodist Church",
+        "city": "New Albany",
+        "state": "Mississippi",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": "2017",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.006535277191,
+          34.492658446668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John Evangelist Catholic Church",
+        "city": "Oxford",
+        "state": "Mississippi",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Screens, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2008/'14/'18",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.529997372335,
+          34.364928184375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Episcopal Church",
+        "city": "Pass Christian",
+        "state": "Mississippi",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2013/2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.254792862445,
+          30.313780253186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Presbyterian Church",
+        "city": "Aurora",
+        "state": "Missouri",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1989,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.72112908496,
+          36.971894233732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Webb-Freer Funeral Home",
+        "city": "Blue Springs",
+        "state": "Missouri",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.283930965904,
+          39.017625249921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Christian Church",
+        "city": "Burlington Jct.",
+        "state": "Missouri",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1991,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.064347172196,
+          40.446698118341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Mo. Correctional Center",
+        "city": "Cameron",
+        "state": "Missouri",
+        "category": "Government / Corrections",
+        "facility": "Correctional Center",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 1989,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.234236001883,
+          39.760720407341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conception Abbey Basilica",
+        "city": "Conception",
+        "state": "Missouri",
+        "category": "Other Religious",
+        "facility": "Abbey / Basilica",
+        "product": "Pews, Chairs, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 1999,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.683979576722,
+          40.24225891996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carson-Speaks Funeral Home",
+        "city": "Independence",
+        "state": "Missouri",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.434869418638,
+          39.086507267919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catholic Radio Chapel",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "Other Religious",
+        "facility": "Chapel",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2022",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.562335580885,
+          39.172055115624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franciscan Sisters of Christ the King",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "Other Religious",
+        "facility": "Religious House",
+        "product": "Pews, Kneelers, Screens",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.570841000425,
+          39.011990123395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jackson County Circuit Court",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "PB-95 Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.578325327534,
+          39.099698269425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.505137916677,
+          39.093835997044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army A.R.C. 10th Street",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.565610439067,
+          39.101718145314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Pius X High School",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.561250151908,
+          39.17203444572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of The Cove Catholic",
+        "city": "Kimberling City",
+        "state": "Missouri",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.421013625123,
+          36.633656267287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John The Baptist Catholic",
+        "city": "Licking",
+        "state": "Missouri",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": "1996/2022",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.851618916032,
+          37.499199544028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis Hospital Chapel",
+        "city": "Mountain View",
+        "state": "Missouri",
+        "category": "Healthcare / Senior Care",
+        "facility": "Hospital",
+        "product": "Pews, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.702451015713,
+          37.001536743617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christian Brothers College High School",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.459455721074,
+          38.63951070752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Post Office Bldg",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pew Type Seating",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.192561115547,
+          38.628634526005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherbrooke Village",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "category": "Healthcare / Senior Care",
+        "facility": "Senior Care Facility",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.30382640246,
+          38.534109601266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Bartholomew Catholic Church",
+        "city": "Windsor",
+        "state": "Missouri",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.518511612597,
+          38.529418191783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Rosary Catholic Church",
+        "city": "Bozeman",
+        "state": "Montana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, (Refinish & New) Screens, Kneeler",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Refinishing / Restoration"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.040416668915,
+          45.679213276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resurrection University Catholic Parish",
+        "city": "Bozeman",
+        "state": "Montana",
+        "category": "Church",
+        "facility": "Church / Parish",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2015,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.052203253118,
+          45.661640836711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shepherd of the Hills Lutheran Church",
+        "city": "Ennis",
+        "state": "Montana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 620
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.739338543186,
+          45.343772977205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Matthew Catholic Church",
+        "city": "Kalispell",
+        "state": "Montana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": "2020",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.311697488937,
+          48.192827955824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pine Hills Youth Correction Facility",
+        "city": "Miles City",
+        "state": "Montana",
+        "category": "Government / Corrections",
+        "facility": "Correctional Facility",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.82253807582,
+          46.408458072199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Lodge Community Church",
+        "city": "Red Lodge",
+        "state": "Montana",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2017",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.246835876115,
+          45.183850226279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Pius Catholic Church",
+        "city": "Ainsworth",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2017",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.850673025189,
+          42.548295323563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nemaha Co. Good Samaritan Ctr.",
+        "city": "Auburn",
+        "state": "Nebraska",
+        "category": "Healthcare / Senior Care",
+        "facility": "Senior Care Facility",
+        "product": "Pews ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 1997,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.853432398403,
+          40.388832996827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beatrice Community Hospital",
+        "city": "Beatrice",
+        "state": "Nebraska",
+        "category": "Healthcare / Senior Care",
+        "facility": "Hospital",
+        "product": "Pews, Cross, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture",
+          "Other / Specialty"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.747132380949,
+          40.31375071808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boys Town - Dowd Chapel",
+        "city": "Boys Town",
+        "state": "Nebraska",
+        "category": "Other Religious",
+        "facility": "Chapel",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "1994/2001",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.131818407246,
+          41.261049461844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquinas High School Chapel",
+        "city": "David City",
+        "state": "Nebraska",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 1998,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 657
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12918446367,
+          41.242912959648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Guadalupe Seminary",
+        "city": "Denton",
+        "state": "Nebraska",
+        "category": "School / Education",
+        "facility": "Seminary",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.827428025137,
+          40.741260163103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul Lutheran Church",
+        "city": "Diller",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "1986/1999",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.936387921962,
+          40.112218265226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sts. Peter & Paul Catholic Church",
+        "city": "Falls City",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2022",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.595645523526,
+          40.062938644418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dugan Funeral Services",
+        "city": "Fremont",
+        "state": "Nebraska",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews, Liturgical Furniture",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.478149990272,
+          41.436267191259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph's Catholic Church",
+        "city": "Geneva",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel, Stained Glass",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture",
+          "Other / Specialty"
+        ],
+        "year": "1999/2009",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.604036554892,
+          40.522985189048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Carmel Home",
+        "city": "Kearney",
+        "state": "Nebraska",
+        "category": "Healthcare / Senior Care",
+        "facility": "Senior Care Facility",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2006,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.088092618326,
+          40.692437776268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Back To The Bible Chapel",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "category": "Business / Other",
+        "facility": "Radio",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.635918746173,
+          40.866666552477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Lutheran Church",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2020",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.625210370485,
+          40.797228376241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pius X High School",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, (refinish), Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Refinishing / Restoration"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.641594925055,
+          40.798998423652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ropers & Sons Funeral Home",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "1989/2006",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.660937630911,
+          40.81358316032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael Catholic Church",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 727
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.613173741557,
+          40.720653334284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Missionary Benedictine Sisters",
+        "city": "Norfolk",
+        "state": "Nebraska",
+        "category": "Other Religious",
+        "facility": "Monastery",
+        "product": "Pews (Radius), Chairs, Altar Railing",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 740
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.433812305127,
+          42.034822351564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army",
+        "city": "North Platte",
+        "state": "Nebraska",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7759028083,
+          41.146884174229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beth El Synagogue",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews, Additional Pews, Chairs, Misc. Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture",
+          "Other / Specialty"
+        ],
+        "year": "1991/2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.139961291492,
+          41.264212205264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beth Israel Synagogue",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": "2003/2004",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.109750573783,
+          41.24867031676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creighton Prep High School Chapel",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews (Red Oak), Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02773382283,
+          41.270119441818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John A. Gentleman Mortuaries",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2015,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.023948182169,
+          41.268982627383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple Israel Synagogue",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews, Additional Pews, Bimah Furniture",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": "1996/2009/13",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 782
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.117315616064,
+          41.244612826787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Department of Homeland Security",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "category": "Government / Corrections",
+        "facility": "Government Facility",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": 2006,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.908183268713,
+          41.281252447321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cass County Courthouse",
+        "city": "Plattsmouth",
+        "state": "Nebraska",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.883185637606,
+          41.011223079487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York University",
+        "city": "York",
+        "state": "Nebraska",
+        "category": "School / Education",
+        "facility": "College",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.579817980245,
+          40.868769091838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Virgen de Guadalupe Catholic Church",
+        "city": "Mesquite",
+        "state": "Nevada",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.077509321925,
+          36.831279569373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Presbyterian Church",
+        "city": "Long Branch",
+        "state": "New Jersey",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991578983977,
+          40.281144481111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of the Precious Blood",
+        "city": "Monmouth Beach",
+        "state": "New Jersey",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers,Cut down (4) Pews for W.A.",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "2008/2012",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981755907078,
+          40.330651822861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Presbyterian Church",
+        "city": "Montclair",
+        "state": "New Jersey",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.205765070058,
+          40.817160688198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Church of Christ, Scientist",
+        "city": "Red Bank",
+        "state": "New Jersey",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Frontal Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.064555047647,
+          40.344867400022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Helen Catholic Church",
+        "city": "Westfield",
+        "state": "New Jersey",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.324765028971,
+          40.628747026318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose Catholic Church / San José Parish",
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.64529944734,
+          35.058185480712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Guadalupe Parish",
+        "city": "Clovis",
+        "state": "New Mexico",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.216775095451,
+          34.398748851481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart Catholic Church",
+        "city": "Clovis",
+        "state": "New Mexico",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.210396925691,
+          34.407045287137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Ysidro Catholic Church",
+        "city": "Corrales",
+        "state": "New Mexico",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak), Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.611940500116,
+          35.231854813737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Genevieve Catholic Church",
+        "city": "Las Cruces",
+        "state": "New Mexico",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.769378843023,
+          32.311625988791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple Beth Tzedek",
+        "city": "Amherst",
+        "state": "New York",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews (White Ash), Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.760810706151,
+          43.0001265897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montefiore Medical Center",
+        "city": "Bronx",
+        "state": "New York",
+        "category": "Healthcare / Senior Care",
+        "facility": "Medical Center",
+        "product": "Pews, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.880738645183,
+          40.87998315045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings County Civil Court ",
+        "city": "Brooklyn",
+        "state": "New York",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988250143963,
+          40.690666136632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamestown Municipal Court Building",
+        "city": "Jamestown",
+        "state": "New York",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.238843852933,
+          42.096700392368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia University",
+        "city": "New York",
+        "state": "New York",
+        "category": "School / Education",
+        "facility": "University",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2015,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963902059197,
+          40.808007723488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Convent of the Sacred Heart School of New York",
+        "city": "New York",
+        "state": "New York",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2006,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95799421486,
+          40.784738118179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marble Collegiate Church",
+        "city": "New York",
+        "state": "New York",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986877287959,
+          40.745382571245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Jewish Community Chapel",
+        "city": "New York",
+        "state": "New York",
+        "category": "Synagogue",
+        "facility": "Jewish Community Chapel",
+        "product": "Pews (Rift Sawn White Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972793249686,
+          40.790848908194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside Study Center",
+        "city": "New York",
+        "state": "New York",
+        "category": "School / Education",
+        "facility": "Religious Study",
+        "product": "Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 837
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970441143746,
+          40.801613011348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Brigid-St. Emeric Church",
+        "city": "New York",
+        "state": "New York",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Custom), Kneelers, Chancel ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980737940636,
+          40.72560699301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John's Church in the Village",
+        "city": "New York",
+        "state": "New York",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": null,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002009252476,
+          40.736345513774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Malachy Roman Catholic Church",
+        "city": "New York",
+        "state": "New York",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Mod. Pews",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2012/2015",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985253801026,
+          40.761174068973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Catholic Church",
+        "city": "Syracuse",
+        "state": "New York",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.239371973873,
+          43.045871544508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Magdalene Catholic Church and School",
+        "city": "Apex",
+        "state": "North Carolina",
+        "category": "Church",
+        "facility": "Church / School",
+        "product": "Pews, Kneelers, Screens, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2015/2017",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.875358143648,
+          35.724306888589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pritchard Memorial Baptist Church",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.851236113359,
+          35.217002093459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Patrick Catholic Church",
+        "city": "Fayetteville",
+        "state": "North Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak), Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.923982188177,
+          35.032140145438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul Presbyterian Church",
+        "city": "Greensboro",
+        "state": "North Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.822141211035,
+          36.046443665128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Stephen the First Martyr Catholic Church",
+        "city": "Sanford",
+        "state": "North Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 850
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.208379157054,
+          35.47821487716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Victory Chapel",
+        "city": "Bismarck",
+        "state": "North Dakota",
+        "category": "School / Education",
+        "facility": "School Chapel",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 854
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.783953749294,
+          46.871463640729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pro-Cathedral of St. Mary",
+        "city": "Bismarck",
+        "state": "North Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.779661513286,
+          46.806356149228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Wenceslaus Catholic Church",
+        "city": "Dickinson",
+        "state": "North Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 860
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.778053156309,
+          46.882146171217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity High School Chapel / St. John Paul II Chapel",
+        "city": "Dickinson",
+        "state": "North Dakota",
+        "category": "School / Education",
+        "facility": "School Chapel",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2016,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.798380280437,
+          46.890592858939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Baptist Church",
+        "city": "Fargo",
+        "state": "North Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Hickory)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.819783064449,
+          46.826255962122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anthony of Padua Catholic Church",
+        "city": "Fargo",
+        "state": "North Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.794817484121,
+          46.868332289089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grafton Mennonite Church",
+        "city": "Grafton",
+        "state": "North Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.601062066422,
+          48.413488650163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roger Haut Funeral Home / Haut Funeral Home",
+        "city": "Jamestown",
+        "state": "North Dakota",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1993,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.702607161655,
+          46.919211842411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Francis of Assisi Church",
+        "city": "Centerville",
+        "state": "Ohio",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1104461899,
+          39.647722902044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Visitation",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.668825696639,
+          39.146637692442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maranatha Seventh-day Adventist Church",
+        "city": "Cleveland",
+        "state": "Ohio",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.573709307392,
+          41.554787736226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Margaret of York",
+        "city": "Loveland",
+        "state": "Ohio",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2004,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.280026398335,
+          39.296478776672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Susanna Chapel",
+        "city": "Mason",
+        "state": "Ohio",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2021",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.317850067681,
+          39.355007229227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franciscan University of Steubenville",
+        "city": "Steubenville",
+        "state": "Ohio",
+        "category": "School / Education",
+        "facility": "University",
+        "product": "Pews (Rift Sawn), Screens, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.620177637985,
+          40.373924614245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleasant View Mennonite Church",
+        "city": "Goltry",
+        "state": "Oklahoma",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2017",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.145752468748,
+          36.53483215881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Cross Catholic Church",
+        "city": "Madill",
+        "state": "Oklahoma",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.778615607553,
+          34.077802971316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Thomas More University Parish & Student Center",
+        "city": "Norman",
+        "state": "Oklahoma",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.441201678571,
+          35.200341680903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessed Stanley Rother Shrine",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2023,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.49957823312,
+          35.377192544386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount St. Mary Catholic High School",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "PB-95 Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52606177859,
+          35.437716483912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poteau First United Methodist Church",
+        "city": "Poteau",
+        "state": "Oklahoma",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.620889396914,
+          35.051396597812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Patrick's Catholic Church",
+        "city": "Portland",
+        "state": "Oregon",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Screens",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.690739408775,
+          45.534413043593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anthony of Padua Catholic Church",
+        "city": "Ambler",
+        "state": "Pennsylvania",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "2008/2009",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.220119629619,
+          40.158729481537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Olive Baptist Church",
+        "city": "Canonsburg",
+        "state": "Pennsylvania",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18466206817,
+          40.259895883131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Street Community Church (Renamed to Lighthouse Community Church)",
+        "city": "Conneaut Lake",
+        "state": "Pennsylvania",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, (35)#1 Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.339282019323,
+          41.578744006254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joan of Arc Catholic Church",
+        "city": "Hershey",
+        "state": "Pennsylvania",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2003,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.655384591805,
+          40.280321711948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Samaritan Church",
+        "city": "Paoli",
+        "state": "Pennsylvania",
+        "category": "Church",
+        "facility": "Church",
+        "product": "White Oak Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.491969404816,
+          40.041568115824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul of the Cross Monastery",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "category": "Other Religious",
+        "facility": "Monastery",
+        "product": "Pews (White Oak),Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": "2020",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.984538002359,
+          40.422192458968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waynesburg University",
+        "city": "Waynesburg",
+        "state": "Pennsylvania",
+        "category": "School / Education",
+        "facility": "University",
+        "product": "Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": 2011,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.185953743132,
+          39.899101666053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salve Regina University Chapel",
+        "city": "Newport",
+        "state": "Rhode Island",
+        "category": "School / Education",
+        "facility": "Chapel / University",
+        "product": "Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.300021518961,
+          41.472280772636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Good Counsel",
+        "city": "West Warwick",
+        "state": "Rhode Island",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.532475308166,
+          41.724547495209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Clare of Assisi Catholic Church",
+        "city": "Daniel Island",
+        "state": "South Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Kneelers, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.914961478237,
+          32.857184790423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of the Rosary Catholic Church",
+        "city": "Greenville",
+        "state": "South Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2015/2016",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.374883523396,
+          34.785983933791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congregation Beth Yam",
+        "city": "Hilton Head Island",
+        "state": "South Carolina",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews (Beech)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.729197638703,
+          32.217238084736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Spirit Catholic Church",
+        "city": "Johns Island",
+        "state": "South Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "2010/2016",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.141006265255,
+          32.641936353988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael's Catholic Church",
+        "city": "Murrells Inlet",
+        "state": "South Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 920
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.003901414398,
+          33.588434293116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claflin University Chapel",
+        "city": "Orangeburg",
+        "state": "South Carolina",
+        "category": "School / Education",
+        "facility": "University Chapel",
+        "product": "Pews, (52)SC2, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85359259133,
+          33.482973387628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anne & St. Jude Roman Catholic Church",
+        "city": "Sumter",
+        "state": "South Carolina",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.391787247513,
+          33.973389762397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Highland United Methodist Church",
+        "city": "Aberdeen",
+        "state": "South Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Chancel Furniture"
+        ],
+        "year": 1999,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.478929002836,
+          45.480868025826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Cross Lutheran Church",
+        "city": "Dakota Dunes",
+        "state": "South Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (remove/reinstall Missouri Flood 2011)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2007/2010",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.491787112183,
+          42.498823891239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delaware Reformed Church",
+        "city": "Lennox",
+        "state": "South Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Modular Bookracks",
+        "jobTypes": [
+          "Pews",
+          "Other / Specialty"
+        ],
+        "year": "1996-98/2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.886843743007,
+          43.257884305775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salem Lutheran Church",
+        "city": "Parkston",
+        "state": "South Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1988,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.98602176986,
+          43.392634098264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miller Funeral Home & On-Site Crematory",
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "category": "Funeral / Cemetery",
+        "facility": "Funeral Home",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2012,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.728333527713,
+          43.542347182565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpetual Adoration Sisters / Mater Ecclesiae Monastery",
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "category": "Other Religious",
+        "facility": "Monastery",
+        "product": "Pews, Screens, Chairs, Chanel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.735896234373,
+          43.553770161834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Benedict Catholic Church",
+        "city": "Yankton",
+        "state": "South Dakota",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers Additional Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": "1996/2013",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.418417849006,
+          42.905754730519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germantown Plantation",
+        "city": "Germantown",
+        "state": "Tennessee",
+        "category": "Healthcare / Senior Care",
+        "facility": "Senior Living",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.753226521678,
+          35.065046526236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Andrew's Catholic Church",
+        "city": "Lexington",
+        "state": "Tennessee",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": 2000,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.385039474703,
+          35.674482899825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Stephen Catholic Church",
+        "city": "Old Hickory",
+        "state": "Tennessee",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.569107022903,
+          36.219663531115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Zion Baptist Church",
+        "city": "Whites Creek",
+        "state": "Tennessee",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.797695219962,
+          36.27678898534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smith Family Chapel at Riverbend Church",
+        "city": "Austin",
+        "state": "Texas",
+        "category": "Other Religious",
+        "facility": "Chapel",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2001,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.802993645064,
+          30.340728622138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newman Catholic Student Center",
+        "city": "Corpus Christi",
+        "state": "Texas",
+        "category": "Other Religious",
+        "facility": "Campus Ministry / Chapel",
+        "product": "Pews, Screens, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316281079554,
+          27.712648216417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Angela Chapel - Ursuline Academy",
+        "city": "Dallas",
+        "state": "Texas",
+        "category": "School / Education",
+        "facility": "School Chapel",
+        "product": "Pews (White Maple), Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.824440586025,
+          32.880035918561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christian Renewal Center",
+        "city": "Dickinson",
+        "state": "Texas",
+        "category": "Other Religious",
+        "facility": "Retreat Center",
+        "product": "PB-95 Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.057367936763,
+          29.446395896316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Philip the Apostle Catholic Church",
+        "city": "El Campo",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chancel Furniture"
+        ],
+        "year": "2022",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.275758502686,
+          29.20008656019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limestone Medical Center",
+        "city": "Groesbeck",
+        "state": "Texas",
+        "category": "Healthcare / Senior Care",
+        "facility": "Medical Center",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2009,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.529953965893,
+          31.531415290341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Basil the Great Greek Orthodox Church",
+        "city": "Houston",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Kneelers, Additional Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "2008/2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.623216760406,
+          29.768792053302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul Cursillo Center",
+        "city": "Houston",
+        "state": "Texas",
+        "category": "Other Religious",
+        "facility": "Religious Center",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.314226452497,
+          29.693570387052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Trinity Seminary",
+        "city": "Irving",
+        "state": "Texas",
+        "category": "School / Education",
+        "facility": "Seminary",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2005,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1028
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.922384720572,
+          32.850269959203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of the Holy Rosary Catholic Church",
+        "city": "Mission",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.317406219506,
+          26.208934016852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congregation Agudas Achim",
+        "city": "San Antonio",
+        "state": "Texas",
+        "category": "Synagogue",
+        "facility": "Synagogue",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1996,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.528225024539,
+          29.592278824141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Brigid Catholic Church",
+        "city": "San Antonio",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chancel, Kneelers, Screens",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": "2002/2013",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623691969377,
+          29.530905531012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hansford County Hospital",
+        "city": "Spearman",
+        "state": "Texas",
+        "category": "Healthcare / Senior Care",
+        "facility": "Hospital",
+        "product": "Pews (Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.200125671188,
+          36.190807598299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart Catholic Church",
+        "city": "Spearman",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Red Oak)",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2013,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.200094914945,
+          36.188847596858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joan of Arc Catholic Church",
+        "city": "Weslaco",
+        "state": "Texas",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.988658911359,
+          26.16251954834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. George 5th District Courts",
+        "city": "St. George",
+        "state": "Utah",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Benches",
+        "jobTypes": [
+          "Benches"
+        ],
+        "year": null,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.587760291749,
+          37.10826680192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. James Catholic Church",
+        "city": "Vernal",
+        "state": "Utah",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Chairs",
+        "jobTypes": [
+          "Chairs"
+        ],
+        "year": 2023,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.530376931242,
+          40.457690285415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Roman Catholic Church",
+        "city": "Blacksburg",
+        "state": "Virginia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Screens, Kneelers, Prie Dieu",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens",
+          "Chancel Furniture"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.464885453495,
+          37.218667117661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Benedict's Chapel / St. Benedict's Catholic Church",
+        "city": "Chesapeake",
+        "state": "Virginia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Additional Pews, Screens, Kneelers ",
+        "jobTypes": [
+          "Other / Specialty"
+        ],
+        "year": "2010/2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.265350511558,
+          36.767314108879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Catholic Church",
+        "city": "Richmond",
+        "state": "Virginia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": "2007/2008",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1099
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.586532054601,
+          37.602370061434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Nazareth Catholic Church",
+        "city": "Roanoke",
+        "state": "Virginia",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2018",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.026033675802,
+          37.238724450405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First United Methodist Church",
+        "city": "Seattle",
+        "state": "Washington",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs (Cherry)",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2010,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353191163081,
+          47.618646680771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Fatima Church",
+        "city": "Vancouver",
+        "state": "Washington",
+        "category": "Church",
+        "facility": "Church",
+        "product": "PB-95 Pews, Screens",
+        "jobTypes": [
+          "Pews",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.535021603957,
+          45.642984809134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petawa Residence & Cultural Center",
+        "city": "Brookfield",
+        "state": "Wisconsin",
+        "category": "Public Space",
+        "facility": "Public Space",
+        "product": "PB-60 Pews, Screens, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2023",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.121475188576,
+          43.060894895912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First United Methodist Church",
+        "city": "Cuba City",
+        "state": "Wisconsin",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1996,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.430914698514,
+          42.60341489244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary Springs Academy",
+        "city": "Fond du Lac",
+        "state": "Wisconsin",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Screens, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Screens"
+        ],
+        "year": "2016",
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48870303427,
+          43.806404045846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resurrection Cemetery",
+        "city": "Mequon",
+        "state": "Wisconsin",
+        "category": "Funeral / Cemetery",
+        "facility": "Cemetery",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1994,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023713102255,
+          43.207096241394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divine Savior Holy Angels High School",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2014,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.037752799593,
+          43.094258276165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marquette University High School",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "category": "School / Education",
+        "facility": "School",
+        "product": "Pews, Kneelers, Chairs, Chancel",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Chancel Furniture"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954498425186,
+          43.038690673724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milwaukee Catholic Home",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "category": "Healthcare / Senior Care",
+        "facility": "Senior Living",
+        "product": "Pews, Screens, Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers",
+          "Screens"
+        ],
+        "year": "2014",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880646514382,
+          43.063239376445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Charles Borromeo Catholic Church",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs, Kneelers",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 1995,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9539718262,
+          42.943408101365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jerome Church",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Kneelers, Arms",
+        "jobTypes": [
+          "Kneelers",
+          "Other / Specialty"
+        ],
+        "year": 2026,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894885620341,
+          42.997844046886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Covenant Church",
+        "city": "Poplar",
+        "state": "Wisconsin",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 1996,
+        "geocodeStatus": "Matched - Non-Exact",
+        "sourceRow": 1156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.783905581885,
+          46.577220061928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Thomas Aquinas Catholic Church",
+        "city": "Waterford",
+        "state": "Wisconsin",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, (229)SC2",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": 2007,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.212720783057,
+          42.76110008313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waupaca County Courthouse",
+        "city": "Waupaca",
+        "state": "Wisconsin",
+        "category": "Courthouse",
+        "facility": "Courthouse",
+        "product": "Pews",
+        "jobTypes": [
+          "Pews"
+        ],
+        "year": 2025,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.067724928653,
+          44.350398222285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Anne Catholic Church",
+        "city": "Big Piney",
+        "state": "Wyoming",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs"
+        ],
+        "year": "2019",
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.115389389655,
+          42.540373409397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral of St. Mary",
+        "city": "Cheyenne",
+        "state": "Wyoming",
+        "category": "Church",
+        "facility": "Church",
+        "product": "Pews (Walnut), Kneelers, Chairs",
+        "jobTypes": [
+          "Pews",
+          "Chairs",
+          "Kneelers"
+        ],
+        "year": 2008,
+        "geocodeStatus": "Matched - Exact",
+        "sourceRow": 1170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.818173582219,
+          41.137282827058
+        ]
+      }
+    }
+  ]
+}
